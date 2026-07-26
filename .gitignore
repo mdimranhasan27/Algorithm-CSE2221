@@ -1,5 +1,6 @@
 *
-!*/
-!*.cpp
 !.gitignore
-
+!Resources/
+!Resources/**
+!*.cpp
+!**/*.cpp
